@@ -63,7 +63,7 @@ And there are a lot of ingredients in between these types.
 
 ##### For countries where vegan certification is wide-spread (USA, Europe):
 
-1.  Look for a trusted “Vegan” certification label on the packaging: [Trusted vegan certificates](https://plante.atlassian.net/wiki/spaces/PS/pages/56819726/Trusted+vegan+certificates)
+1.  Look for a trusted “Vegan” certification label on the packaging: [Trusted vegan certificates](trusted-vegan-certificates.md)
     
 2.  Google "is <product name> vegan" - for some products there are public consumer researches of their vegan statuses. For example: [https://veganrussian.ru/chips-tomato-chili-samokat/](https://veganrussian.ru/chips-tomato-chili-samokat/)  
     If such a research exists and its source is trustworthy, we should use the vegan status they came up with and put a link to their research to the product's moderation page.
@@ -87,7 +87,7 @@ If the approaches described above didn't help, then we have to come up with the 
 
 ##### Check ingredients
 
-First of all, please read [Surprisingly non-vegan ingredients](https://plante.atlassian.net/wiki/spaces/PS/pages/56885362/Surprisingly+non-vegan+ingredients), then return to this list.
+First of all, please read [Surprisingly non-vegan ingredients](surprisingly-non-vegan-ingredients.md), then return to this list.
 
 Where to verify status of each individual ingredient:
 
@@ -107,7 +107,7 @@ If all ingredients are vegan or one of them is non-vegan - that’s the product�
 If you found some ambiguous/unknown ingredients, the manufacturer should be contacted and asked about the ingredients. Please consult with the teammates if you haven’t done it before, but want to give it a try.  
 If you wouldn’t like to get in touch with the manufacturer, you should ask others to do that for you.
 
-[How to contact manufacturers](https://plante.atlassian.net/wiki/spaces/PS/pages/65208321/How+to+contact+manufacturers)
+[How to contact manufacturers](how-to-contact-manufacturers.md)
 
 If the manufacturer responded and their response clarifies product’s vegan status, then you should put their response to the “Moderator’s comment” field of the product moderation page. Use next format:
 
