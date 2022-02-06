@@ -24,7 +24,7 @@ Instruction:
         
 2.  If an already-existing shop is found, click on it with the Query Features tool of Open Street Map.
     
-3.  Ensure it has a “shop” tag. If it doesn’t, either add it manually in Open Street Map or contact [blazern](https://plante.atlassian.net/wiki/people/70121:f35ff0ba-29fc-4df9-bfda-e560044b4179?ref=confluence)
+3.  Ensure it has a “shop” tag. If it doesn’t, either add it manually in Open Street Map or contact [blazern](https://github.com/blazern/)
     
 4.  Copy the Open Street Map URL of the already-existing shop.
     

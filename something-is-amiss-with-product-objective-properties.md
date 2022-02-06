@@ -22,7 +22,7 @@ To ensure the product is really not present in OFF, you should open the Plante m
 
 ![](https://plante.atlassian.net/wiki/download/attachments/61210625/image-20211124-095812.png?api=v2)
 
-If the product **is found** by the app, that’s even more unfortunate! It means a terrible bug is present. Make sure to let [blazern](https://plante.atlassian.net/wiki/people/70121:f35ff0ba-29fc-4df9-bfda-e560044b4179?ref=confluence) know about it, and leave the moderation task for the product to him.
+If the product **is found** by the app, that’s even more unfortunate! It means a terrible bug is present. Make sure to let [blazern](https://github.com/blazern/) know about it, and leave the moderation task for the product to him.
 
 If the product **is not found** by the app, it means it was deleted by an Open Food Facts moderator.  
 Click “Erase veg-statuses of the product”, then “Moderated”, then “Send”. It will erase product’s data from our database.

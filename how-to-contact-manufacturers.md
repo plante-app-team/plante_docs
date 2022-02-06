@@ -1,6 +1,6 @@
 ### Your email
 
-If you don’t yet have an email “yourname@planteapp.com“, ask [blazern](https://plante.atlassian.net/wiki/people/70121:f35ff0ba-29fc-4df9-bfda-e560044b4179?ref=confluence) to make you one.
+If you don’t yet have an email “yourname@planteapp.com“, ask [blazern](https://github.com/blazern/) to make you one.
 
 ### List of ambiguous ingredients
 
