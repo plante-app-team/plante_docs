@@ -1,5 +1,3 @@
-/\*<!\[CDATA\[\*/ div.rbtoc1644152581688 {padding: 0px;} div.rbtoc1644152581688 ul {list-style: disc;margin-left: 0px;} div.rbtoc1644152581688 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
-
 *   [Main rule](#Howtomoderateveganstatusesofproducts-Mainrule)
 *   [Ingredients types.](#Howtomoderateveganstatusesofproducts-Ingredientstypes.)
 *   [Ambiguous ingredients.](#Howtomoderateveganstatusesofproducts-Ambiguousingredients.)
