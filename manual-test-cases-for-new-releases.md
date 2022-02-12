@@ -117,10 +117,14 @@
 2.  Open [https://planteapp.com/plante\_web\_admin/#/manage\_users](https://planteapp.com/plante_web_admin/#/manage_users) and delete the user
     
 3.  Uninstall the app, install the app again.
+
+4.  Set Username, Self-description, Avatar.
+
+5.  Ensure Username, Self-description and Avatar are properly displayed in the Profile page.
     
-4.  Check if map is properly displayed and works.
+6.  Check if map is properly displayed and works.
     
-5.  Scan a barcode, ensure the product is properly displayed.
+7.  Scan a barcode, ensure the product is properly displayed.
     
 
 ### Suggested products
@@ -166,14 +170,14 @@
 
 ### Distance units
 
-1. Move the map to a metric country (if not there yet).
+1.  Move the map to a metric country (if not there yet).
 
-2. Search for a store.
+2.  Search for a store.
 
-3. Ensure distance to found stores is displayed in kilometers and meters.
+3.  Ensure distance to found stores is displayed in kilometers and meters.
 
-4. Move the map to an "Emperial"-country (the US or the UK).
+4.  Move the map to an "Emperial"-country (the US or the UK).
 
-5. Search for a store.
+5.  Search for a store.
 
-6. Ensure distance to found stores is displayed in miles and feet.
+6.  Ensure distance to found stores is displayed in miles and feet.
