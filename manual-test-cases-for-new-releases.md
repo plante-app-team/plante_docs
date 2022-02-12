@@ -68,13 +68,13 @@
     
 2.  Find the just added product by its barcode, erase its vegan status.
     
-3.  Open the product in the app.
+3.  In the app scan the barcode again and open the product's page.
     
 4.  Ensure the product has the “Help with veg-status” button.
     
 5.  Help with veg-status, _choose the “I don’t know” option_.
     
-6.  In the Products Management page search for product again, ensure it has the “Unknown” option with “Community” as source.
+6.  In the Products Management page search for product again, ensure it has the “Unknown” status.
     
 7.  In the app rescan product’s barcode and ensure it has the “Unknown” option with “Community” as source.
     
@@ -162,3 +162,18 @@
     3.  Ensure the products are removed from the list.
         
     4.  Restart the app (cold start), ensure the 2 removed products are not confirmed, but are within suggestions.
+
+
+### Distance units
+
+1. Move the map to a metric country (if not there yet).
+
+2. Search for a store.
+
+3. Ensure distance to found stores is displayed in kilometers and meters.
+
+4. Move the map to an "Emperial"-country (the US or the UK).
+
+5. Search for a store.
+
+6. Ensure distance to found stores is displayed in miles and feet.
