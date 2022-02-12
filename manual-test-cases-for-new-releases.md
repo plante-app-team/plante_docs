@@ -134,6 +134,8 @@
     1.  Country-wide suggestions enabled,
         
     2.  Existing added to the map products by users (confirmed products).
+
+    3.  For example, Brussels.
         
 2.  Click “Load territory”.
     
@@ -147,7 +149,7 @@
     
 5.  Ensure map filters work properly.
     
-6.  Open a shop, ensure it properly displays (the open shops should have all 3 kinds of products):
+6.  Open 1-3 shops (at least 1 with confirmed products, 1 with city-wide suggestions, 1 with country-wide suggestions), ensure they properly display:
     
     1.  Confirmed products,
         
@@ -155,11 +157,13 @@
         
     3.  Country-wide suggestions.
         
-7.  Click “Not sold here” on a city-wide and a country-wide suggestion - ensure they’re both gone from the list.
+7.  **If negative suggestions votes are still not sent to the backend**, click “Not sold here” on a city-wide and a country-wide suggestion - ensure they’re both gone from the list.
     
 8.  Test suggestions confirmation and un-confirmation:
     
     1.  Click “Sold here” on a city-wide and a country-wide suggestion - ensure they’re both added to the confirmed list.
+
+    2.  Restart the app (cold start), ensure the 2 just confirmed products are still confirmed within the store.
         
     2.  **Then click “Not sold here” on the 2 just added products to not mess up the data of the city.**
         
