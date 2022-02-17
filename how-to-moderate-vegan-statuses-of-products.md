@@ -17,6 +17,53 @@
 Ingredients list has a priority over any label put on product’s packaging.  
 If the packaging has a “Vegan” label, we should keep that in mind _but we still must go over full moderation process_. Sometimes manufacturers make mistakes.
 
+## Foreign languages
+
+Although it's possible to moderate products in languages unknown to you using translators, it should be done with **great care**.
+
+Sometimes when Google Translate receives whole ingredients list, it translates unrelated pieces as 1 word/phrase, **making up an entirely new ingredient which was not in the original ingredients list**.
+
+A safer way to do translation is to split the original ingredients list text, replacing commas with newlines - this way Google Translate will think of each of the ingredients as of separate unrelated entities (which they are).
+
+Example of a split list:
+<details>
+  <summary>Original</summary>
+   
+```
+  Ρεβιθι 5%, ελαιολαδο 3% , φακη, νερο, καρυδελαιο, μεθυλοκυτταρiνη εκχυλισμα μαγιάς, εκχυλισμα μπαχαρικων (πιπερι, σκορδο, μοσχοκαρυδο) , δεξτροζη, μπαχαρικά, σακχαρα, καραμελα , μαλτοδεξτρινη, αλατι, αρτυμακαπνιστου τροφιμου, πυκνωτικο μεσο καραγεννανη. χρωστικη: e172 . συντηρητικο: σορβικο καλιο
+```
+   
+</details>
+<details>
+  <summary>Split</summary>
+
+```
+Ρεβιθι 5%
+ελαιολαδο 3% 
+φακη
+νερο
+καρυδελαιο
+μεθυλοκυτταρiνη εκχυλισμα μαγιάς
+εκχυλισμα μπαχαρικων
+πιπερι
+σκορδο
+μοσχοκαρυδο
+δεξτροζη
+μπαχαρικά
+σακχαρα
+καραμελα 
+μαλτοδεξτρινη
+αλατι
+αρτυμακαπνιστου τροφιμου
+πυκνωτικο μεσο καραγεννανη
+χρωστικη: e172
+συντηρητικο: σορβικο καλιο  
+```
+
+</details>
+
+String-splitting can be done both in your computer text editors and online (google "split string online").
+
 ## Ingredients types.
 
 A product can have 4 types of ingredients:
