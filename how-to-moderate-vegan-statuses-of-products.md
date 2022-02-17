@@ -1,17 +1,3 @@
-*   [Main rule](#Howtomoderateveganstatusesofproducts-Mainrule)
-*   [Ingredients types.](#Howtomoderateveganstatusesofproducts-Ingredientstypes.)
-*   [Ambiguous ingredients.](#Howtomoderateveganstatusesofproducts-Ambiguousingredients.)
-    *   [Types of ambiguous ingredients](#Howtomoderateveganstatusesofproducts-Typesofambiguousingredients)
-    *   [How should a product with ambiguous ingredients be moderated?](#Howtomoderateveganstatusesofproducts-Howshouldaproductwithambiguousingredientsbemoderated?)
-        *   [Reliable way](#Howtomoderateveganstatusesofproducts-Reliableway)
-            *   [For countries where vegan certification is wide-spread (USA, Europe):](#Howtomoderateveganstatusesofproducts-Forcountrieswherevegancertificationiswide-spread(USA,Europe):)
-            *   [For countries where vegan certification is not wide-spread (ex-USSR):](#Howtomoderateveganstatusesofproducts-Forcountrieswherevegancertificationisnotwide-spread(ex-USSR):)
-        *   [Empirical way](#Howtomoderateveganstatusesofproducts-Empiricalway)
-            *   [Check ingredients](#Howtomoderateveganstatusesofproducts-Checkingredients)
-            *   [Contact the manufacturer](#Howtomoderateveganstatusesofproducts-Contactthemanufacturer)
-            *   [The last resort](#Howtomoderateveganstatusesofproducts-Thelastresort)
-    *   [Other important things](#Howtomoderateveganstatusesofproducts-Otherimportantthings)
-
 ## Main rule
 
 Ingredients list has a priority over any label put on product’s packaging.  
