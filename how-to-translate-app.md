@@ -33,7 +33,7 @@ When in Poeditor you see a weird text like:
 ```
 ...that means you've encountered a plural string!
 
-Different languages have different rules for grammatical agreement with plurals. In English, for example, the quantity 1 is a special case. We write "1 month", but for any other quantity we'd write "n monts". This distinction between singular and plural is very common, but other languages make finer distinctions.
+Different languages have different rules for grammatical agreement with plurals. In English, for example, the quantity 1 is a special case. We write "1 month", but for any other quantity we'd write "n months". This distinction between singular and plural is very common, but other languages make finer distinctions.
 
 For example, Polish plurals for "month":
 - one: 1 miesiąc
@@ -41,7 +41,7 @@ For example, Polish plurals for "month":
 - many: 5 miesięcy
 - other: 1,5 miesiąca
 
-Here you can find the description for the language that insterests you: https://www.unicode.org/cldr/charts/43/supplemental/language_plural_rules.html
+Here you can find the description for the language that interests you: https://www.unicode.org/cldr/charts/43/supplemental/language_plural_rules.html
 
 To add translations for each of the plural form click the eye icon in Poeditor: 
 
